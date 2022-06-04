@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thescorer
+- 👋 Hi, I’m @HowToGibbon
 - 👀 I’m interested in game development, 3D Art, video editing, automation and climbing & skiing    
 - 🌱 I’m currently learning various stuff in the IT bachelor
 - 💞️ I’m looking to collaborate on game jams.
